@@ -1,0 +1,1 @@
+javascript:(function(){var iframe = document.createElement(`iframe`);iframe.src=`https://wintrcat.github.io/netcade/index.html`;iframe.width=window.innerWidth;iframe.height=window.innerHeight;document.body.appendChild(iframe);})();
